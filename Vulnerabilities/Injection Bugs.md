@@ -5,7 +5,7 @@
 
 - **Basics:**  
   - [BugBasics GPT](https://chatgpt.com/g/g-689d9ac4c3348191829547dd84ee8964-bugbasics-gpt)  
-  - [PortSwigger – SQL Injection](https://portswigger.net/web-security/sql-injection)  
+  - [PortSwigger – SQL Injection](https://portswigger.net/web-security/sql-injection)         done
   - [Invicti SQL Injection Cheat Sheet](https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/)
 
 - **Practice:**  
